@@ -27,6 +27,7 @@
   |---|---|
   | [procore-cli](https://github.com/opsrev/procore-cli) | CLI for the Procore construction management API |
   | [eagleview-cli](https://github.com/opsrev/eagleview-cli) | CLI for the EagleView API |
+  | [acculynx-cli](https://github.com/opsrev/acculynx-cli) | CLI for the AccuLynx API |
 
   ## Learn More
 
